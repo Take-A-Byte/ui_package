@@ -1,5 +1,8 @@
 # ui_package
 
+> [!NOTE]  
+> This repo is forked from https://github.com/gianfrancopapa/bricks/tree/main/ui_package - [301091](https://github.com/gianfrancopapa/bricks/commit/3010912729ac5a3f63268226ba2bd84845905d6c)
+
 A mason brick to create a new UI package containing the design system.
 
 ## Usage 🚀
